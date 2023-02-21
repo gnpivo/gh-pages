@@ -1,0 +1,6 @@
+title: GitHub Pages
+author: Gabriel Nick Pivovarov
+description: This is a Docker image for testing GitHub Pages websites.
+theme: minima
+titles_from_headings:
+  strip_title: true
